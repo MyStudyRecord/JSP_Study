@@ -93,6 +93,8 @@
 <table border="1">
 <tr>
 <td>회원번호(자동발생)</td>
+
+//readonly="readonly" : 읽기만 가능하고 칸안에 입력 불가
 <td><input type="text" name="custno" readonly="readonly"></td>
 </tr>
 
